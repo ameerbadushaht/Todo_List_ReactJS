@@ -2,7 +2,7 @@
 
 ### Install Dependencies :-
 ```
- @emotion/styled,
+ @emotion/styled
  @material-ui/core
  @material-ui/icon
  @mui/icons-material
